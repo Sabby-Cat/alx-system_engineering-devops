@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# kisten to port 98 - localhost
+nc -l 98
